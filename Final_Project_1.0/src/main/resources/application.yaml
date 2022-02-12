@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: pilot
+    password: pilot
+    url: jdbc:mysql://localhost:3306/pilot
